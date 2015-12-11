@@ -1,0 +1,2 @@
+-DLIBCLANG_LIBRARY=/usr/lib/llvm-3.6.2/lib/libclang.so
+-DLIBCLANG_INCLUDE_DIR=/usr/lib/llvm-3.6.2/include/
